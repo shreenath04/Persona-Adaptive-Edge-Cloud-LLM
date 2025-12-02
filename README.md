@@ -45,5 +45,19 @@ Language: Python
 Local LLM: gemma3:4b via Ollama
 Cloud LLM: llama3.1:8b via Ollama
 Database: MongoDB
+
 Auth: bcrypt hashing
 Execution: CLI-based UX
+
+
+
+🔧 Future Work
+
+The current system successfully performs adaptive routing, authentication, and persona-based prompt shaping, but several enhancements are planned to evolve DualBrain AI into a fully personalized assistant experience:
+
+🧠 1. Dynamic Trait Updating
+
+Right now, user traits are inferred once during onboarding. The next phase will enable continuous learning, where the system updates personality traits, tone preferences, and expertise level based on real conversational patterns.
+💬 2. Long-Term Conversational Memory
+
+🎨 3. Front-End UI + Deployment

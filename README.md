@@ -73,3 +73,10 @@ Right now, user traits are inferred once during onboarding. The next phase will 
 💬 2. Long-Term Conversational Memory
 
 🎨 3. Front-End UI + Deployment
+
+
+
+
+
+https://github.com/user-attachments/assets/7be9544a-4f57-46c2-970e-d5dd95a876ec
+
